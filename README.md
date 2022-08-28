@@ -1,3 +1,4 @@
+![K11OO WIO hardware wiring](https://user-images.githubusercontent.com/64990378/187052707-922f06d6-484d-4237-9e07-176eba00764d.jpg)
 # K11OOW10_ReadSensor_I2C
 Read WIO Terminal K1100 kit sensors with I2C device detection
 
